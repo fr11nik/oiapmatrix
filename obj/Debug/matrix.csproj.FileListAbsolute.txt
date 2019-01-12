@@ -1,0 +1,10 @@
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\bin\Debug\matrix.exe.config
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\bin\Debug\matrix.exe
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\bin\Debug\matrix.pdb
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\obj\Debug\matrix.csprojResolveAssemblyReference.cache
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\obj\Debug\matrix.Form1.resources
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\obj\Debug\matrix.Properties.Resources.resources
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\obj\Debug\matrix.csproj.GenerateResource.Cache
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\obj\Debug\matrix.exe
+C:\Users\Fr11nik\Desktop\Отчеты\matrix\matrix\obj\Debug\matrix.pdb
